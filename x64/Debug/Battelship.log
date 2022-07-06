@@ -1,0 +1,85 @@
+﻿  Source1.cpp
+C:\Users\walee\Desktop\Battelship\Source1.cpp(135,35): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=unsigned int
+          ]
+C:\Users\walee\Desktop\Battelship\Source1.cpp(139,35): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=unsigned int
+          ]
+C:\Users\walee\Desktop\Battelship\Source1.cpp(167,15): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\walee\Desktop\Battelship\Source1.cpp(299,15): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\walee\Desktop\Battelship\Source1.cpp(411,16): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\walee\Desktop\Battelship\Source1.cpp(517,16): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\walee\Desktop\Battelship\Source1.cpp(565,17): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\walee\Desktop\Battelship\Source1.cpp(596,16): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\walee\Desktop\Battelship\Source1.cpp(670,34): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\walee\Desktop\Battelship\Source1.cpp(671,62): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\walee\Desktop\Battelship\Source1.cpp(672,34): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\walee\Desktop\Battelship\Source1.cpp(1660,54): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\walee\Desktop\Battelship\Source1.cpp(1660,114): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\walee\Desktop\Battelship\Source1.cpp(1663,31): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\walee\Desktop\Battelship\Source1.cpp(1663,68): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\walee\Desktop\Battelship\Source1.cpp(1663,135): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\walee\Desktop\Battelship\Source1.cpp(1674,38): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\walee\Desktop\Battelship\Source1.cpp(1675,66): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\walee\Desktop\Battelship\Source1.cpp(1676,38): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Battelship.vcxproj -> C:\Users\walee\Desktop\Battelship\x64\Debug\Battelship.exe
